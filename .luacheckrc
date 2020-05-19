@@ -13,5 +13,5 @@ read_globals = {
 	"dump", "screwdriver",
 
 	-- Deps
-	"default"
+	"default", "monitoring"
 }

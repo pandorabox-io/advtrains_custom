@@ -11,3 +11,7 @@ various advtrains hacks and customizations
 ## Far away trains
 
 Disables far away (>500 nodes) trains
+
+# Settings
+
+* **advtrains_custom.max_range** max range of active trains (default: 500 nodes)
